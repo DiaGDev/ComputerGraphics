@@ -1,0 +1,69 @@
+﻿  Install OSG
+  installing OSG - will take some time
+  sz : The term 'C:\Program Files\7-Zip\7z.exe' is not recognized as the name of a cmdlet, function, script file, or 
+  operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try 
+  again.
+  At line:1 char:308
+  + ... ion folder.7z;set-alias sz $env:ProgramFiles\7-Zip\7z.exe; sz x folde ...
+  +                                                                ~~
+      + CategoryInfo          : ObjectNotFound: (C:\Program Files\7-Zip\7z.exe:String) [], CommandNotFoundException
+      + FullyQualifiedErrorId : CommandNotFoundException
+   
+  installing OSG Data - will take some time
+  Start-BitsTransfer : The resource loader cache doesn't have loaded MUI entry. (Exception from HRESULT: 0x80073B01)
+  At line:1 char:124
+  + ...  some time';Start-BitsTransfer -Source https://www.openscenegraph.com ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : NotSpecified: (:) [Start-BitsTransfer], COMException
+      + FullyQualifiedErrorId : System.Runtime.InteropServices.COMException,Microsoft.BackgroundIntelligentTransfer.Mana 
+     gement.NewBitsTransferCommand
+   
+  sz : The term 'C:\Program Files\7-Zip\7z.exe' is not recognized as the name of a cmdlet, function, script file, or 
+  operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try 
+  again.
+  At line:1 char:330
+  + ... ation data.7z;set-alias sz $env:ProgramFiles\7-Zip\7z.exe; sz x data. ...
+  +                                                                ~~
+      + CategoryInfo          : ObjectNotFound: (C:\Program Files\7-Zip\7z.exe:String) [], CommandNotFoundException
+      + FullyQualifiedErrorId : CommandNotFoundException
+   
+  Remove-Item : Cannot find path 'C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\Comput
+  erGraphicsAssignmentRaaTidyDianaAndreeaCocos\data.7z' because it does not exist.
+  At line:1 char:343
+  + ...  sz $env:ProgramFiles\7-Zip\7z.exe; sz x data.7z;Remove-Item data.7z}
+  +                                                      ~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\addu9\...eaCocos\data.7z:String) [Remove-Item], ItemNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.RemoveItemCommand
+   
+  AssetLibrary.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\AssetLibrary.cpp(2,10): error C1083: Cannot open include file: 'osgDB/ReadFile': No such file or directory
+  BoundCalculator.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\BoundCalculator.cpp(2,10): error C1083: Cannot open include file: 'osg/Geode': No such file or directory
+  Facade.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\Facade.h(4,10): error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  (compiling source file 'Facade.cpp')
+  
+  FacadeFactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\Facade.h(4,10): error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  (compiling source file 'FacadeFactory.cpp')
+  
+  FacadeFactoryA.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\FacadeFactoryA.h(3,10): error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  (compiling source file 'FacadeFactoryA.cpp')
+  
+  FacadeManufactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\FacadeManufactory.h(5,10): error C1083: Cannot open include file: 'osg/Matrixf': No such file or directory
+  (compiling source file 'FacadeManufactory.cpp')
+  
+  NodeFinder.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\NodeFinder.h(4,10): error C1083: Cannot open include file: 'osg/NodeVisitor': No such file or directory
+  (compiling source file 'NodeFinder.cpp')
+  
+  NodeFinderT.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\NodeFinderT.h(5,10): error C1083: Cannot open include file: 'osg/NodeVisitor': No such file or directory
+  (compiling source file 'NodeFinderT.cpp')
+  
+  Printer.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Common\Printer.cpp(3,10): error C1083: Cannot open include file: 'osg/MatrixTransform': No such file or directory
+  Generating Code...

@@ -1,0 +1,17 @@
+﻿  DemoAnimatedCar.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\AnimationViewer\DemoAnimatedCar.cpp(2,10): error C1083: Cannot open include file: 'osg/Geode': No such file or directory
+  DemoAnimatedCarFactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\AnimationViewer\DemoAnimatedCarFactory.h(3,10): error C1083: Cannot open include file: 'Common/FacadeFactoryA.h': No such file or directory
+  (compiling source file 'DemoAnimatedCarFactory.cpp')
+  
+  AnimationViewer.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\AnimationViewer\AnimationViewer.cpp(4,10): error C1083: Cannot open include file: 'osgViewer/Viewer': No such file or directory
+  DemoTrafficLight.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\AnimationViewer\DemoTrafficLight.h(3,10): error C1083: Cannot open include file: 'TrafficSystem/TrafficLightFacade.h': No such file or directory
+  (compiling source file 'DemoTrafficLight.cpp')
+  
+  DemoTrafficLightFactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\AnimationViewer\DemoTrafficLight.h(3,10): error C1083: Cannot open include file: 'TrafficSystem/TrafficLightFacade.h': No such file or directory
+  (compiling source file 'DemoTrafficLightFactory.cpp')
+  
+  Generating Code...

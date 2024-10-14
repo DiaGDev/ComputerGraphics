@@ -1,0 +1,16 @@
+﻿  ControllableTrafficLightFacade.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Assignment\ControllableTrafficLightFacade.cpp(2,10): error C1083: Cannot open include file: 'osg/Geode': No such file or directory
+  ControllableTrafficLightFacadeFactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Assignment\ControllableTrafficLightFacade.h(4,10): error C1083: Cannot open include file: 'osg/Material': No such file or directory
+  (compiling source file 'ControllableTrafficLightFacadeFactory.cpp')
+  
+  Example.cpp
+  RoadTileLightsFacade.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Assignment\ControllableTrafficLightFacade.h(4,10): error C1083: Cannot open include file: 'osg/Material': No such file or directory
+  (compiling source file 'RoadTileLightsFacade.cpp')
+  
+  RoadTileLightsFacadeFactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\Assignment\RoadTileLightsFacade.h(3,10): error C1083: Cannot open include file: 'TrafficSystem/RoadFacade.h': No such file or directory
+  (compiling source file 'RoadTileLightsFacadeFactory.cpp')
+  
+  Generating Code...

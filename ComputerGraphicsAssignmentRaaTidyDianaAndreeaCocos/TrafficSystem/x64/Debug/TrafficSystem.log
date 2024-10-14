@@ -1,0 +1,29 @@
+﻿  AnimationPointFinder.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\AnimationPointFinder.cpp(3,10): error C1083: Cannot open include file: 'osg/MatrixTransform': No such file or directory
+  CarFacade.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\CarFacade.h(3,10): error C1083: Cannot open include file: 'Common/Facade.h': No such file or directory
+  (compiling source file 'CarFacade.cpp')
+  
+  CarFacadeFactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\CarFacadeFactory.h(3,10): error C1083: Cannot open include file: 'Common/FacadeFactoryA.h': No such file or directory
+  (compiling source file 'CarFacadeFactory.cpp')
+  
+  CollisionTarget.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\CollisionTarget.h(4,10): error C1083: Cannot open include file: 'osg/Vec3f': No such file or directory
+  (compiling source file 'CollisionTarget.cpp')
+  
+  Collider.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\Collider.cpp(3,10): error C1083: Cannot open include file: 'osg/MatrixTransform': No such file or directory
+  RoadFacade.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\RoadFacade.cpp(1,10): error C1083: Cannot open include file: 'Common/Facade.h': No such file or directory
+  RoadFacadeFactory.cpp
+  TrafficLightFacade.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\RoadFacadeFactory.h(3,10): error C1083: Cannot open include file: 'Common\FacadeFactoryA.h': No such file or directory
+  (compiling source file 'RoadFacadeFactory.cpp')
+  
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\TrafficLightFacade.cpp(2,10): error C1083: Cannot open include file: 'osg/Geode': No such file or directory
+  TrafficLightFacadeFactory.cpp
+C:\Users\addu9\Downloads\AssessmentDianaAndreeaCocos\AssessmentDianaAndreeaCocos\ComputerGraphicsAssignmentRaaTidyDianaAndreeaCocos\TrafficSystem\TrafficLightFacade.h(2,10): error C1083: Cannot open include file: 'Common/Facade.h': No such file or directory
+  (compiling source file 'TrafficLightFacadeFactory.cpp')
+  
+  Generating Code...
